@@ -60,4 +60,4 @@ TeamTalk/
 
 Я Харчук Віталій лідер команди і Оператор програмного забезпечення за першою спеціальністю і хочу бути інженером програмного забезпечення за другою спеціальнісьтю. Моє побажання на оцінку 7 або вище.
 
-<img width="125" height="125" alt="image" src="https://github.com/user-attachments/assets/835eee27-da8a-44c0-a002-82da64e7ed27" />
+<img width="125" height="125" alt="501063346-835eee27-da8a-44c0-a002-82da64e7ed27-removebg-preview" src="https://github.com/user-attachments/assets/bdd79b13-b52b-4979-b4d2-8a77a9cdcf39" />
