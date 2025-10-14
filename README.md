@@ -53,4 +53,5 @@ TeamTalk/
 └── package.json
 
 Я Дмитро Дмитрук не дужа лажу з кодом а ось мої друзі краще я стараюсь і хочу хочаби 7 балів а моїм друзям можно і більше вони заслуговують на це :)))
-<img width="214" height="235" alt="image" src="https://github.com/user-attachments/assets/8af10603-7117-4727-afec-014a34004641" />
+
+<img width="225" height="225" alt="images-removebg-preview" src="https://github.com/user-attachments/assets/f6ee6713-8423-4199-bf1a-235eb28487ec" />
