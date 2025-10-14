@@ -54,4 +54,4 @@ TeamTalk/
 
 Я Дмитро Дмитрук не дужа лажу з кодом а ось мої друзі краще я стараюсь і хочу хочаби 7 балів а моїм друзям можно і більше вони заслуговують на це :)))
 
-<img width="225" height="225" alt="images-removebg-preview" src="https://github.com/user-attachments/assets/f6ee6713-8423-4199-bf1a-235eb28487ec" />
+<img width="125" height="125" alt="images-removebg-preview" src="https://github.com/user-attachments/assets/f6ee6713-8423-4199-bf1a-235eb28487ec" />
